@@ -1,6 +1,6 @@
 # GIT Team Flow
 ## JHESS + MC + YC = <3
-## We're the the 3 best friends anyone can have!
+## We're the 3 gods who are the best friends anyone can have!
 
 ###We're the Three Best Friends
 ###That Anyone Could Have
