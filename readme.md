@@ -1,5 +1,5 @@
 # GIT Team Flow
-## JHESS + MC + YC = <3 
+## JHESS + MC + YC = <3
 ## We're the the 3 best friends anyone can have!
 
 ###We're the Three Best Friends
@@ -14,4 +14,4 @@
 ###That Anyone Could Have
 ###We're the Three Best Friends
 ###That Anyone Could Have
-###All credits got to Zach Galifianakis and The Hangover team
+######All credits go to Zach Galifianakis and The Hangover team
