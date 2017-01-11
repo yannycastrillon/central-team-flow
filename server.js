@@ -6,6 +6,11 @@ var
   logger = require("morgan")
 
 
+mongoose.connect('mongodb://localhost/#', (err) => {
+	console.log(err || 'Connected')
+})
+  
+
 // Middleware
 app.use(logger('dev'));
 app.use(bodyParser.json());
@@ -25,3 +30,4 @@ function reverse(myString) {
 
 
 app.listen(3000, ( () => "Server running on port 3000"))
+
